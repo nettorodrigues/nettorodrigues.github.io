@@ -6,7 +6,7 @@
 Estou iniciando no curso de Análises e Desenvolvimento de Sistemas.
 
 ## Projetos
--
+- Estudano para em breve trazer diversos projetos.
 
 ## Contato
 - E-mail: ntrodrigues91@gmail.com
